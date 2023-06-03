@@ -1,6 +1,10 @@
-# site2f
+
+
+
+</body>
+</html><link rel="stylesheet" hre="style.css>
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en>
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-compatible"content="IE=edge">
@@ -8,11 +12,6 @@
     <title>Document</title>
     </head>
     <body>
-
-
-    </body>
-    <html><link rel="stylessheet" href="style.css">
-    <!DOCTYPE html>
-    <html lang="en">
-    <head>
-<meta>
+         <header>
+             <img src="" atl="">
+             <ul>
