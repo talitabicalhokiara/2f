@@ -1,7 +1,8 @@
 *{
 margin: 0;
-header {
-    
+padding: 0;
+
+
     backgroud-color: #424E61;
     color: white;
  display: flex;
