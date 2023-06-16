@@ -1,0 +1,22 @@
+*{
+margin: 0;
+header {
+    
+    backgroud-color: #424E61;
+    color: white;
+ display: flex;
+ justify-content: space-around;
+}
+
+.cabecalho-imagem{
+ width: 20%
+}
+
+
+
+.cabecalho-imagem-item{
+display: inline-block;
+margin: 0 16px ;
+}
+.cabecalho-imagem}
+ width: 20%;
